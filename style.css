@@ -1,0 +1,133 @@
+
+body{
+background-color:black
+}
+
+div#contenedor1{width: 1080px;
+    height: 15px;
+
+
+}
+    div#caja1{
+
+        width: 700px;
+        height: 15px;
+        background-color: rgb(137, 253, 4);
+        padding: 40px;
+        border-radius: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 10px;
+        float: left;
+       
+        
+        
+ }
+ div#caja2{
+
+    width: 300px;
+    height: 15px;
+    background-color: rgb(137, 253, 4);
+    padding: 40px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    align-content: center;
+    float: left;
+
+    
+    
+}
+div#caja3{
+
+    width: 465px;
+    height: 460px;
+    background-color:rgb(137, 253, 4);
+    padding: 5px;
+    border-radius:20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    align-content: center;
+    float: left;
+
+}
+div#caja4{
+
+    width: 600px;
+    height: 150px;
+    background-color:rgb(137, 253, 4);
+    padding: 40px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    align-content: center;
+    float: left;
+
+     }
+
+div#caja5{
+
+        width: 600px;
+        height: 150px;
+        background-color: rgb(137, 253, 4);
+        padding: 40px;
+        border-radius: 20px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 10px;
+        align-content: center;
+        float: left;
+    
+         }
+         
+         
+         div#caja6{
+
+            width: 300px;
+            height: 120px;
+            background-color: rgb(90, 210, 216);
+            padding: 40px;
+            border-radius: 20px;
+            margin-left: 5px;
+            margin-right: 5px;
+            margin-top: 10px;
+            align-content: center;
+            float: left;
+        
+             }
+             
+             
+             div#caja7{
+
+                width: 300px;
+                height: 120px;
+                background-color:rgb(90, 210, 216);
+                padding: 40px;
+                border-radius: 20px;
+                margin-left: 5px;
+                margin-right: 5px;
+                margin-top: 10px;
+                align-content: center;
+                float: left;
+               
+            
+                 }
+                 
+                 
+                 div#caja8{
+
+                    width: 300px;
+                    height: 120px;
+                    background-color: rgb(90, 210, 216);
+                    padding: 40px;
+                    border-radius: 20px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    margin-top: 10px;
+                    align-content: center;
+                    float: left;
+                
+                     }
